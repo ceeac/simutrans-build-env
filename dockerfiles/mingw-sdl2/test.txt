@@ -1,0 +1,858 @@
+======================== Name & Summary Matched: mingw =========================
+mingw-filesystem-base.noarch : Generic files which are needed for both mingw32-filesystem and mingw64-filesystem
+mingw-w64-tools.x86_64 : Supplementary tools which are part of the mingw-w64 toolchain
+mingw32-GConf2.noarch : MinGW Windows port of the GNOME 2.x Desktop Configuration Database System
+mingw32-GeographicLib.noarch : MinGW Windows GeographicLib library
+mingw32-LibRaw.noarch : MinGW Windows LibRaw library
+mingw32-LibRaw-static.noarch : Static version of the MinGW Windows LibRaw library
+mingw32-LibRaw-tools.noarch : Tools for the MinGW Windows LibRaw library
+mingw32-OpenEXR.noarch : MinGW Windows OpenEXR library
+mingw32-OpenEXR-static.noarch : Static version of the MinGW Windows OpenEXR library
+mingw32-OpenEXR-tools.noarch : Tools for the MinGW Windows OpenEXR library
+mingw32-SDL.noarch : MinGW Windows port of SDL cross-platform multimedia library
+mingw32-SDL2.noarch : MinGW Windows port of SDL cross-platform multimedia library
+mingw32-SDL2-static.noarch : MinGW Windows port of SDL cross-platform multimedia library
+mingw32-SDL2_image.noarch : MinGW Windows port of the Image loading library for SDL2
+mingw32-SDL2_mixer.noarch : MinGW Windows port of Simple DirectMedia Layer's Sample Mixer Library
+mingw32-SDL2_ttf.noarch : MinGW Windows port of the TrueType font handling library for SDL2
+mingw32-SDL_image.noarch : MinGW Windows port of the Image loading library for SDL
+mingw32-SDL_mixer.noarch : MinGW Windows port of Simple DirectMedia Layer's Sample Mixer Library
+mingw32-SDL_ttf.noarch : MinGW Windows port of the TrueType font handling library for SDL
+mingw32-adwaita-icon-theme.noarch : MinGW Adwaita icon theme for MingGW
+mingw32-angleproject-static.noarch : Static version of the mingw32-angleproject library
+mingw32-antlr.noarch : MinGW Windows ANTLR C++ run-time library
+mingw32-antlr-static.noarch : Static Version of the MinGW Windows ANTLR C++ run-time library
+mingw32-atk.noarch : MinGW Windows Atk library
+mingw32-atk-static.noarch : Static version of the MinGW Windows Atk library
+mingw32-atkmm.noarch : MinGW Windows C++ interface for the ATK library
+mingw32-biblesync.noarch : A MinGW build of the biblesync library
+mingw32-boost.noarch : MinGW Windows Boost C++ library for the win32 target
+mingw32-boost-static.noarch : Static version of the MinGW Windows Boost C++ library
+mingw32-brotli.noarch : MinGW port of Lossless compression algorithm
+mingw32-bsdcat.noarch : MinGW package for bsdcat utility
+mingw32-bsdcpio.noarch : MinGW package for bsdcpio utility
+mingw32-bsdtar.noarch : MinGW package for bsdtar utility
+mingw32-bzip2-static.noarch : Static library for mingw32-bzip2 development
+mingw32-cairo.noarch : MinGW Windows Cairo library
+mingw32-cairo-static.noarch : Static version of the MinGW Windows Cairo library
+mingw32-cairomm.noarch : MinGW Windows C++ API for the cairo graphics library
+mingw32-cfitsio.noarch : MinGW Windows CFITSIO library
+mingw32-cfitsio-tools.noarch : MinGW Windows CFITSIO library
+mingw32-clucene.noarch : MinGW build of a C++ port of Lucene
+mingw32-cmocka.noarch : MinGW GnuTLS TLS/SSL encryption library
+mingw32-cmocka-static.noarch : Static version of the MinGW Windows cmocka library
+mingw32-colord.noarch : Color libraries and data files for MinGW
+mingw32-colord-gtk.noarch : MinGW GTK support library for colord
+mingw32-colord-gtk-static.noarch : MinGW GTK static library for colord
+mingw32-colord-static.noarch : Static color libraries and data files for MinGW
+mingw32-colorhug-client.noarch : MinGW Tools for the Hughski ColorHug
+mingw32-cpp.x86_64 : MinGW Windows cross-C Preprocessor for the win32 target
+mingw32-cppunit.noarch : MinGW Windows C++ unit testing framework
+mingw32-crt.noarch : MinGW Windows cross-compiler runtime for the win32 target
+mingw32-curl.noarch : MinGW Windows port of curl and libcurl
+mingw32-curl-static.noarch : Static version of the MinGW Windows Curl library
+mingw32-dbus.noarch : MinGW Windows port of D-Bus
+mingw32-dbus-glib.noarch : MinGW build of GLib bindings for D-Bus
+mingw32-dbus-glib-static.noarch : MinGW build of GLib bindings for D-Bus static build
+mingw32-dbus-static.noarch : Static version of MinGW Windows port of DBus library
+mingw32-djvulibre.noarch : MinGW Windows djvulibre library
+mingw32-djvulibre-tools.noarch : Tools for the  MinGW Windows djvulibre library
+mingw32-dlfcn-static.noarch : Static version of the MinGW Windows dlfcn library
+mingw32-eigen3.noarch : MinGW lightweight C++ template library for vector and matrix math
+mingw32-enchant.noarch : MinGW Windows Enchanting Spell Checking Library
+mingw32-enchant-static.noarch : Static version of the MinGW Windows enchant library
+mingw32-enchant2.noarch : MinGW Windows enchant2 library
+mingw32-exiv2.noarch : MinGW Windows exiv2 library
+mingw32-expat.noarch : MinGW Windows port of expat XML parser library
+mingw32-expat-static.noarch : Static version of the MinGW Windows expat XML parser library
+mingw32-fcgi.noarch : MinGW Windows fcgi library
+mingw32-fftw.noarch : MinGW Fast Fourier Transform library
+mingw32-fftw-static.noarch : MinGW Fast Fourier Transform library
+mingw32-filesystem.noarch : MinGW cross compiler base filesystem and environment for the win32 target
+mingw32-fltk-static.noarch : MinGW compiled fltk for the Win64 target
+mingw32-fontconfig.noarch : MinGW Windows Fontconfig library
+mingw32-freeglut.noarch : Fedora MinGW alternative to the OpenGL Utility Toolkit (GLUT)
+mingw32-freeimage.noarch : MinGW Windows freeimage library
+mingw32-freeimage-static.noarch : Static version of the MinGW Windows freeimage library
+mingw32-freetype-static.noarch : Static version of the MinGW Windows Freetype library
+mingw32-freexl.noarch : MinGW Windows freexl library
+mingw32-fribidi.noarch : MinGW Windows fribidi library
+mingw32-fribidi-static.noarch : Static version of the MinGW Windows fribidi library
+mingw32-ftplib.noarch : MinGW Library of FTP routines
+mingw32-g2clib.noarch : MinGW Windows g2clib library
+mingw32-gcc.x86_64 : MinGW Windows cross-compiler (GCC) for C for the win32 target
+mingw32-gcc-c++.x86_64 : MinGW Windows cross-compiler for C++ for the win32 target
+mingw32-gcc-gfortran.x86_64 : MinGW Windows cross-compiler for FORTRAN for the win32 target
+mingw32-gcc-objc.x86_64 : MinGW Windows cross-compiler support for Objective C for the win32 target
+mingw32-gcc-objc++.x86_64 : MinGW Windows cross-compiler support for Objective C++ for the win32 target
+mingw32-gdal.noarch : MinGW Windows GDAL library
+mingw32-gdal-tools.noarch : MinGW Windows GDAL library tools
+mingw32-gdb.noarch : MinGW Windows port of the GDB debugger
+mingw32-gdbm.noarch : MinGW port of GNU database routines
+mingw32-gdbm-static.noarch : Static version of the MinGW Windows GDBM library
+mingw32-gdk-pixbuf.noarch : MinGW Windows GDK Pixbuf library
+mingw32-geos.noarch : MinGW Windows GEOS library
+mingw32-gettext-static.noarch : Static version of the MinGW Windows Gettext library
+mingw32-giflib.noarch : MinGW Windows giflib library
+mingw32-giflib-static.noarch : Static version of the MinGW Windows giflib library
+mingw32-giflib-tools.noarch : Tools for the MinGW Windows giflib library
+mingw32-glew.noarch : MinGW Windows GLEW library
+mingw32-glew-static.noarch : Static version of MinGW Windows GLEW library
+mingw32-glew-tools.noarch : Tools for the MinGW Windows GLEW library
+mingw32-glib-networking.noarch : MinGW Windows glib-networking library
+mingw32-glib2.noarch : MinGW Windows Glib2 library for the win32 target
+mingw32-glib2-static.noarch : Static version of the MinGW Windows GLib2 library
+mingw32-glibmm24.noarch : MinGW Windows C++ interface for GTK2 (a GUI library for X)
+mingw32-glslang.noarch : MinGW Windows glslang library
+mingw32-gnutls.noarch : MinGW GnuTLS TLS/SSL encryption library
+mingw32-goocanvas2.noarch : MinGW Windows canvas library for GTK+
+mingw32-graphite2.noarch : MinGW Windows graphite2 library
+mingw32-graphite2-static.noarch : Static version of the MinGW Windows graphite2 library
+mingw32-gsl.noarch : MinGW Windows port of the GNU Scientific Library for the win32 target
+mingw32-gsl-static.noarch : Static version of MinGW Windows port of the GNU Scientific Library
+mingw32-gstreamer.noarch : MinGW Windows Streaming-Media Framework Runtime
+mingw32-gstreamer1.noarch : MinGW Windows Streaming-Media Framework Runtime
+mingw32-gtk2.noarch : MinGW Windows Gtk2 library
+mingw32-gtk2-static.noarch : Static version of the MinGW Windows Gtk2 library
+mingw32-gtk3.noarch : MinGW Windows GTK+ library
+mingw32-gtkmm24.noarch : MinGW Windows C++ interface for GTK2 (a GUI library for X)
+mingw32-gtkmm30.noarch : MinGW Windows C++ interface for the GTK+ library
+mingw32-gtksourceview3.noarch : MinGW Windows library for viewing source files
+mingw32-gtksourceviewmm3.noarch : MinGW Windows GtkSourceViewmm library
+mingw32-gtkspell3.noarch : MinGW Windows GtkSpell3 library
+mingw32-gtkspell3-static.noarch : Static version of the MinGW Windows GtkSpell3 library
+mingw32-gtkspellmm30.noarch : MinGW Windows GtkSpellmm library
+mingw32-gtkspellmm30-static.noarch : Static version of the MinGW Windows GtkSpellmm library
+mingw32-gvnc.noarch : MinGW Windows port of VNC GObject
+mingw32-harfbuzz.noarch : MinGW Windows Harfbuzz library
+mingw32-harfbuzz-static.noarch : Static version of the MinGW Windows Harfbuzz library
+mingw32-headers.noarch : MinGW Windows cross-compiler Win32 header files
+mingw32-hicolor-icon-theme.noarch : MinGW hicolor icon theme for MingGW
+mingw32-hidapi-static.noarch : Static libraries for mingw32-hidapi development
+mingw32-hunspell.noarch : MinGW Windows spell checker and morphological analyzer library
+mingw32-hunspell-static.noarch : Static version of the MinGW Windows hunspell library
+mingw32-hunspell-tools.noarch : MinGW Windows hunspell library tools
+mingw32-icu.noarch : MinGW compilation of International Components for Unicode Tools
+mingw32-ilmbase.noarch : MinGW Windows ilmbase library
+mingw32-ilmbase-static.noarch : Static version of the MinGW Windows ilmbase library
+mingw32-jasper.noarch : MinGW Windows Jasper library
+mingw32-jasper-static.noarch : Static version of the MinGW Windows Jasper library
+mingw32-jimtcl.noarch : MinGW small embeddable Tcl interpreter
+mingw32-json-glib.noarch : MinGW compiled json-glib library for the Win32 target
+mingw32-jxrlib.noarch : MinGW Windows JPEG XR library
+mingw32-lcms.noarch : MinGW Color Management System
+mingw32-lcms-static.noarch : Static libraries for mingw32-lcms development
+mingw32-lcms2.noarch : MinGW Color Management Engine
+mingw32-lcms2-static.noarch : Static libraries for mingw32-lcms2 development
+mingw32-leptonica.noarch : MinGW Windows Leptonica library
+mingw32-leptonica-static.noarch : Static version of the MinGW Windows Leptonica library
+mingw32-libIDL.noarch : MinGW Windows IDL Parsing Library
+mingw32-libIDL-static.noarch : Static version of the MinGW Windows IDL Parsing Library
+mingw32-libarchive.noarch : MinGW package for handling streaming archive formats
+mingw32-libarchive-static.noarch : Static version of the MinGW libarchive library
+mingw32-libcharset.noarch : MinGW Windows libcharset library
+mingw32-libconfuse.noarch : MinGW configuration file parser library
+mingw32-libcroco.noarch : MinGW A CSS2 parsing library
+mingw32-libcroco-static.noarch : MinGW static A CSS2 parsing library
+mingw32-libepoxy.noarch : MinGW Windows libepoxy library
+mingw32-libffi.noarch : A portable foreign function interface library for MinGW
+mingw32-libffi-static.noarch : A portable foreign function interface static library for MinGW
+mingw32-libftdi.noarch : MinGW library to program and control the FTDI USB controller
+mingw32-libgcrypt.noarch : MinGW Windows gcrypt encryption library
+mingw32-libgcrypt-static.noarch : Static library for mingw32-libgcrypt development
+mingw32-libgeotiff.noarch : MinGW Windows libgeotiff library
+mingw32-libgeotiff-static.noarch : Static version of the MinGW Windows libgeotiff library
+mingw32-libgeotiff-tools.noarch : Tools for the MinGW Windows libgeotiff library
+mingw32-libglade2.noarch : MinGW Windows Libglade2 library
+mingw32-libglade2-static.noarch : Static MinGW Windows Libglade2 library
+mingw32-libglademm24.noarch : MinGW Windows C++ wrapper for libglade
+mingw32-libgnurx.noarch : MinGW Regex library
+mingw32-libgnurx-static.noarch : Static version of the MinGW Windows regular expression library
+mingw32-libgovirt.noarch : MinGW support for a GObject library for interacting with oVirt REST API
+mingw32-libgovirt-static.noarch : MinGW support for a GObject library for interacting with oVirt REST API
+mingw32-libgpg-error.noarch : MinGW Windows libgpg-error compression library for the win32 target
+mingw32-libgpg-error-static.noarch : Static library for mingw32-libgpg-error development
+mingw32-libgsf.noarch : MinGW build of structured file editing library
+mingw32-libgsf-static.noarch : MinGW build of structured file editing library
+mingw32-libgta.noarch : MinGW Windows GTA library
+mingw32-libgusb.noarch : MinGW library which allows easy access to USB devices
+mingw32-libgusb-static.noarch : MinGW static library which allows easy access to USB devices
+mingw32-libidn.noarch : MinGW Windows zlib compression library for the win32 target
+mingw32-libidn-static.noarch : Static version of the MinGW Windows IDN library
+mingw32-libidn2.noarch : MinGW Windows IDN 2008 library the win32 target
+mingw32-libidn2-static.noarch : Static version of the MinGW Windows IDN 2008 library
+mingw32-libjpeg-turbo.noarch : MinGW Windows Libjpeg-turbo library
+mingw32-libjpeg-turbo-static.noarch : Static version of the MinGW Windows Libjpeg-turbo library
+mingw32-libkml.noarch : MinGW Windows libkml library
+mingw32-libmicrohttpd.noarch : MinGW package for libmicrohttpd
+mingw32-libmng.noarch : MinGW Windows libmng library
+mingw32-libmng-static.noarch : Static version of the MinGW Windows libmng library
+mingw32-libosinfo.noarch : MinGW Windows port of a library for managing OS information for virtualization
+mingw32-libpng.noarch : MinGW Windows Libpng library
+mingw32-libpng-static.noarch : Static version of MinGW Windows Libpng library
+mingw32-libpsl.noarch : MinGW port of C library for the Publix Suffix List
+mingw32-librsvg2.noarch : MinGW SVG library based on cairo
+mingw32-librsvg2-static.noarch : MinGW SVG static library based on cairo
+mingw32-libsigc++20.noarch : MinGW Windows port of the typesafe signal framework for C++
+mingw32-libsigsegv.noarch : MinGW library for handling page faults in user mode
+mingw32-libsoup.noarch : MinGW library for HTTP and XML-RPC functionality
+mingw32-libspatialite.noarch : MinGW Windows libspatialite library
+mingw32-libsq3.noarch : MinGW Windows C++ Wrapper for the SQLite3 embeddable SQL database engine
+mingw32-libsqlite3x.noarch : MinGW Windows C++ Wrapper for the SQLite3 embeddable SQL database engine
+mingw32-libssh2.noarch : MinGW Windows library implementation of the SSH2 protocol
+mingw32-libssh2-static.noarch : Static version of the MinGW Windows SSH2 library
+mingw32-libtasn1.noarch : MinGW Windows libtasn1 library
+mingw32-libtiff.noarch : MinGW Windows port of the LibTIFF library
+mingw32-libtiff-static.noarch : Static version of the MinGW Windows LibTIFF library
+mingw32-libunistring.noarch : MinGW port of GNU Unicode string library
+mingw32-libusbx.noarch : MinGW library which allows userspace access to USB devices
+mingw32-libusbx-static.noarch : MinGW static library which allows userspace access to USB devices
+mingw32-libvirt.noarch : MinGW Windows libvirt virtualization library
+mingw32-libvirt-gconfig.noarch : MingwGW Windows libvirt-gconfig virtualization library
+mingw32-libvirt-glib.noarch : MingwGW Windows libvirt-gconfig virtualization library
+mingw32-libvirt-gobject.noarch : MingwGW Windows libvirt-gobject virtualization library
+mingw32-libvirt-static.noarch : MinGW Windows libvirt virtualization library
+mingw32-libvorbis.noarch : MinGW Windows libvorbis library
+mingw32-libwebp.noarch : MinGW compilation of Library and tools for the WebP format
+mingw32-libxml++.noarch : MinGW Windows C++ wrapper for the libxml2 XML parser library
+mingw32-libxml2.noarch : MinGW Windows libxml2 XML processing library
+mingw32-libxml2-static.noarch : Static version of the MinGW Windows XML processing library
+mingw32-libxslt.noarch : MinGW Windows Library providing the Gnome XSLT engine
+mingw32-libxslt-static.noarch : Static version of the MinGW Windows LibXSLT library
+mingw32-llvm.x86_64 : LLVM for MinGW Windows
+mingw32-llvm-static.noarch : LLVM for MinGW Windows - Static libraries
+mingw32-llvm-tools.noarch : LLVM for MinGW Windows - Runtime tools
+mingw32-log4c.noarch : MinGW compiled log4c library for the Win32 target
+mingw32-mpfr.noarch : MinGW C library for multiple-precision floating-point computations
+mingw32-nettle.noarch : MinGW package for nettle cryptographic library
+mingw32-openal-soft.noarch : MinGW compiled OpenAL Soft library for Win32 target
+mingw32-openjpeg2.noarch : MinGW Windows openjpeg2 library
+mingw32-openjpeg2-tools.noarch : Tools for the MinGW Windows openjpeg2 library
+mingw32-openssl.noarch : MinGW port of the OpenSSL toolkit
+mingw32-openssl-static.noarch : Static version of the MinGW port of the OpenSSL toolkit
+mingw32-osinfo-db-tools.noarch : MinGW Windows port of a library for managing OS information for virtualization
+mingw32-p11-kit.noarch : MinGW Library for loading and sharing PKCS#11 modules
+mingw32-pango.noarch : MinGW Windows Pango library
+mingw32-pango-static.noarch : Static version of the MinGW Windows Pango library
+mingw32-pangomm.noarch : MinGW Windows C++ interface for Pango
+mingw32-pcre.noarch : MinGW Windows pcre library
+mingw32-pcre-static.noarch : Static version of the mingw32-pcre library
+mingw32-pcre2.noarch : MinGW Windows pcre2 library
+mingw32-pcre2-static.noarch : Static version of the MinGW Windows pcre2 library
+mingw32-pdcurses.noarch : Curses library for MinGW32
+mingw32-physfs.noarch : MinGW compiled physfs library for the Win32 target
+mingw32-physfs-static.noarch : Static version of the MinGW Win32 compiled physfs library
+mingw32-pixman.noarch : MinGW Windows Pixman library
+mingw32-pixman-static.noarch : Static version of the MinGW Windows Pixman library
+mingw32-plotmm.noarch : MinGW GTKmm plot widget for scientific applications for the win32 target
+mingw32-plotmm-static.noarch : Static version of the MinGW Windows PlotMM library
+mingw32-podofo.noarch : MinGW Windows podofo library
+mingw32-podofo-tools.noarch : Tools for the MinGW Windows podofo library
+mingw32-polyclipping.noarch : MinGW Windows Polygon clipping library for the win32 target
+mingw32-poppler.noarch : MinGW Windows Poppler library
+mingw32-poppler-cpp.noarch : MinGW Windows C++ Poppler library
+mingw32-poppler-glib.noarch : MinGW Windows Poppler-Glib library
+mingw32-poppler-qt5.noarch : MinGW Windows Poppler-Qt5 library
+mingw32-portablexdr.noarch : MinGW Windows PortableXDR / RPC Library
+mingw32-portablexdr-static.noarch : MinGW Windows PortableXDR XDR / RPC library, static version
+mingw32-postgresql.noarch : MinGW Windows PostgreSQL library
+mingw32-postgresql-static.noarch : Static libraries for MinGW PostgreSQL
+mingw32-proj-static.noarch : Static libraries for mingw32-proj
+mingw32-python3.noarch : MinGW Windows python3 library
+mingw32-python3-Cython.noarch : MinGW Windows Python3 Cython library
+mingw32-python3-GeographicLib.noarch : MinGW Windows GeographicLib python 3 bindings
+mingw32-python3-gdal.noarch : MinGW Windows Python3 GDAL bindings
+mingw32-python3-libkml.noarch : MinGW Windows Python 3 libkml library
+mingw32-python3-numpy.noarch : MinGW Windows Python3 numpy library
+mingw32-python3-pyqt5-sip.x86_64 : MinGW Windows SIP module for PyQt5 - Python 3
+mingw32-python3-qscintilla-qt5.noarch : MinGW Windows qscintilla-qt5 Python 3 bindings
+mingw32-python3-qt5.x86_64 : MinGW Windows Python3-Qt5
+mingw32-python3-setuptools.noarch : MinGW Windows Python3 setuptools library
+mingw32-python3-sip.x86_64 : MinGW Windows SIP - Python 3
+mingw32-qca-qt5.noarch : MinGW Windows Qt Cryptographic Architecture
+mingw32-qextserialport-qt5.noarch : MinGW Windows qextserialport Qt5 library
+mingw32-qscintilla-qt5.noarch : MinGW Windows qscintilla-qt5 library
+mingw32-qt5-qtbase-static.noarch : Static version of the mingw32-qt5-qtbase library
+mingw32-qt5-qtdeclarative-static.noarch : Static version of the mingw32-qt5-qtdeclarative library
+mingw32-qt5-qtquickcontrols-static.noarch : Static version of the mingw32-qt5-qtquickcontrols library
+mingw32-qtkeychain-qt5.noarch : MinGW Windows qtkeychain library
+mingw32-qtspell-qt5.noarch : MinGW Windows qtspell-Qt5 library
+mingw32-qtspell-qt5-static.noarch : Static version of the MinGW Windows qtspell-Qt5 library
+mingw32-quazip-qt5.noarch : MinGW Windows Qt5 quazip library
+mingw32-quazip-qt5-static.noarch : Static version of the MinGW Windows Qt5 quazip library
+mingw32-qwt-qt5.noarch : MinGW Windows Qwt library
+mingw32-qwtpolar-qt5.noarch : MinGW Windows qwtpolar library
+mingw32-readline.noarch : MinGW port of readline for editing typed command lines
+mingw32-sane-backends.noarch : MinGW package for SANE
+mingw32-shapelib.noarch : MinGW Windows shapelib library
+mingw32-shapelib-static.noarch : Static version of the  MinGW Windows shapelib library
+mingw32-shapelib-tools.noarch : Tools for the  MinGW Windows shapelib library
+mingw32-sigar.noarch : MinGW Windows sigar library
+mingw32-spatialindex.noarch : MinGW Windows spatialindex library
+mingw32-speex-tools.noarch : The tools package for mingw32-speex
+mingw32-spirv-headers.noarch : MinGW Windows spirv-headers
+mingw32-spirv-tools.noarch : MinGW Windows spirv-tools
+mingw32-sqlite.noarch : MinGW Windows port of sqlite embeddable SQL database engine
+mingw32-sqlite-static.noarch : Static version of MinGW Windows port of sqlite library
+mingw32-svg2svgt.noarch : MinGW Windows svg2svgt library
+mingw32-sword.noarch : MinGW build of a cross-platform scripture text library
+mingw32-taglib.noarch : MinGW Windows version of TagLib for the win32 target
+mingw32-tcl.noarch : MinGW Windows Tool Command Language, pronounced tickle
+mingw32-termcap.noarch : MinGW terminal feature database
+mingw32-tesseract.noarch : MinGW Windows tesseract-ocr library
+mingw32-tesseract-static.noarch : Static version of the MinGW Windows tesseract-ocr library
+mingw32-tesseract-tools.noarch : MinGW Windows tesseract-ocr library tools
+mingw32-tk.noarch : MinGW Windows graphical toolkit for the Tcl scripting language
+mingw32-twaindsm.noarch : MinGW Windows twaindsm library
+mingw32-uriparser.noarch : MinGW Windows uriparser library
+mingw32-usbredir.noarch : MinGW USB network redirection protocol libraries
+mingw32-usbredir-static.noarch : MinGW USB network redirection protocol static libraries
+mingw32-vulkan-headers.noarch : MinGW Windows vulkan-headers
+mingw32-vulkan-loader.noarch : MinGW Windows vulkan-loader library
+mingw32-vulkan-tools.noarch : MinGW Windows vulkan-tools
+mingw32-vulkan-validation-layers.noarch : MinGW Windows vulkan-validation-layers library
+mingw32-win-iconv.noarch : MinGW Windows Iconv library
+mingw32-win-iconv-static.noarch : Static version of the MinGW Windows Iconv library
+mingw32-windows-default-manifest.noarch : MinGW Default Windows application manifest
+mingw32-winpthreads.noarch : MinGW pthread library for the win32 target
+mingw32-winpthreads-static.noarch : Static version of the MinGW Windows pthreads library
+mingw32-winstorecompat.noarch : MinGW library to help porting to Windows Store for the win32 target
+mingw32-wpcap.noarch : MinGW user-level packet capture
+mingw32-wpcap-docs.noarch : MinGW pcap documentation
+mingw32-wpcap-examples.noarch : Example source code for MinGW pcap
+mingw32-wxWidgets.noarch : MinGW port of the wxWidgets GUI library
+mingw32-wxWidgets-static.noarch : Static libraries for mingw32-wxWidgets development
+mingw32-wxWidgets3.noarch : MinGW port of the wxWidgets GUI library
+mingw32-wxWidgets3-static.noarch : Static libraries for mingw32-wxWidgets3 development
+mingw32-zfstream.noarch : MinGW Windows abstraction API for reading and writing compressed files
+mingw32-zlib.noarch : MinGW Windows zlib compression library for the win32 target
+mingw32-zlib-static.noarch : Static libraries for mingw32-zlib development.
+mingw64-GConf2.noarch : MinGW Windows port of the GNOME 2.x Desktop Configuration Database System
+mingw64-GeographicLib.noarch : MinGW Windows GeographicLib library
+mingw64-LibRaw.noarch : MinGW Windows LibRaw library
+mingw64-LibRaw-static.noarch : Static version of the MinGW Windows LibRaw library
+mingw64-LibRaw-tools.noarch : Tools for the MinGW Windows LibRaw library
+mingw64-OpenEXR.noarch : MinGW Windows OpenEXR library
+mingw64-OpenEXR-static.noarch : Static version of the MinGW Windows OpenEXR library
+mingw64-OpenEXR-tools.noarch : Tools for the MinGW Windows OpenEXR library
+mingw64-SDL.noarch : MinGW Windows port of SDL cross-platform multimedia library
+mingw64-SDL2.noarch : MinGW Windows port of SDL cross-platform multimedia library
+mingw64-SDL2-static.noarch : MinGW Windows port of SDL cross-platform multimedia library
+mingw64-SDL2_image.noarch : MinGW Windows port of the Image loading library for SDL2
+mingw64-SDL2_mixer.noarch : MinGW Windows port of Simple DirectMedia Layer's Sample Mixer Library
+mingw64-SDL2_ttf.noarch : MinGW Windows port of the TrueType font handling library for SDL2
+mingw64-SDL_image.noarch : MinGW Windows port of the Image loading library for SDL
+mingw64-SDL_mixer.noarch : MinGW Windows port of Simple DirectMedia Layer's Sample Mixer Library
+mingw64-SDL_ttf.noarch : MinGW Windows port of the TrueType font handling library for SDL
+mingw64-adwaita-icon-theme.noarch : MinGW Adwaita icon theme for MingGW
+mingw64-angleproject-static.noarch : Static version of the mingw32-angleproject library
+mingw64-antlr.noarch : Static Version of the MinGW Windows ANTLR C++ run-time library
+mingw64-antlr-static.noarch : Static Version of the MinGW Windows ANTLR C++ run-time library
+mingw64-atk.noarch : MinGW Windows Atk library
+mingw64-atk-static.noarch : Static version of the MinGW Windows Atk library
+mingw64-atkmm.noarch : MinGW Windows C++ interface for the ATK library
+mingw64-biblesync.noarch : A MinGW build of the biblesync library
+mingw64-boost.noarch : MinGW Windows Boost C++ library for the win64 target
+mingw64-boost-static.noarch : Static version of the MinGW Windows Boost C++ library
+mingw64-brotli.noarch : MinGW port of Lossless compression algorithm
+mingw64-bsdcat.noarch : MinGW package for bsdcat utility
+mingw64-bsdcpio.noarch : MinGW package for bsdcpio utility
+mingw64-bsdtar.noarch : MinGW package for bsdtar utility
+mingw64-bzip2-static.noarch : Static library for mingw64-bzip2 development
+mingw64-cairo.noarch : MinGW Windows Cairo library
+mingw64-cairo-static.noarch : Static version of the MinGW Windows Cairo library
+mingw64-cairomm.noarch : MinGW Windows C++ API for the cairo graphics library
+mingw64-cfitsio.noarch : MinGW Windows CFITSIO library
+mingw64-cfitsio-tools.noarch : MinGW Windows CFITSIO library
+mingw64-clucene.noarch : MinGW build of a C++ port of Lucene
+mingw64-cmocka.noarch : MinGW GnuTLS TLS/SSL encryption library
+mingw64-cmocka-static.noarch : Static version of the MinGW Windows cmocka library
+mingw64-colord.noarch : Color libraries and data files for MinGW
+mingw64-colord-gtk.noarch : MinGW GTK support library for colord
+mingw64-colord-gtk-static.noarch : MinGW GTK static library for colord
+mingw64-colord-static.noarch : Static color libraries and data files for MinGW
+mingw64-colorhug-client.noarch : MinGW Tools for the Hughski ColorHug
+mingw64-cpp.x86_64 : MinGW Windows cross-C Preprocessor for the win64 target.
+mingw64-crt.noarch : MinGW Windows cross-compiler runtime for the win64 target
+mingw64-curl.noarch : MinGW Windows port of curl and libcurl
+mingw64-curl-static.noarch : Static version of the MinGW Windows Curl library
+mingw64-dbus.noarch : MinGW Windows port of D-Bus
+mingw64-dbus-glib.noarch : MinGW build of GLib bindings for D-Bus
+mingw64-dbus-glib-static.noarch : MinGW build of GLib bindings for D-Bus static build
+mingw64-dbus-static.noarch : Static version of MinGW Windows port of DBus library
+mingw64-djvulibre.noarch : MinGW Windows djvulibre library
+mingw64-djvulibre-tools.noarch : Tools for the  MinGW Windows djvulibre library
+mingw64-dlfcn-static.noarch : Static version of the MinGW Windows dlfcn library
+mingw64-eigen3.noarch : MinGW lightweight C++ template library for vector and matrix math
+mingw64-enchant.noarch : MinGW Windows Enchanting Spell Checking Library
+mingw64-enchant-static.noarch : Static version of the MinGW Windows enchant library
+mingw64-enchant2.noarch : MinGW Windows enchant2 library
+mingw64-exiv2.noarch : MinGW Windows exiv2 library
+mingw64-expat.noarch : MinGW Windows port of expat XML parser library
+mingw64-expat-static.noarch : Static version of the MinGW Windows expat XML parser library
+mingw64-fcgi.noarch : MinGW Windows fcgi library
+mingw64-fftw.noarch : MinGW Fast Fourier Transform library
+mingw64-fftw-static.noarch : MinGW Fast Fourier Transform library
+mingw64-filesystem.noarch : MinGW cross compiler base filesystem and environment for the win64 target
+mingw64-fltk.noarch : MinGW compiled fltk for the Win64 target
+mingw64-fltk-static.noarch : MinGW compiled fltk for the Win64 target
+mingw64-fontconfig.noarch : MinGW Windows Fontconfig library
+mingw64-freeglut.noarch : Fedora MinGW alternative to the OpenGL Utility Toolkit (GLUT)
+mingw64-freeimage.noarch : MinGW Windows freeimage library
+mingw64-freeimage-static.noarch : Static version of the MinGW Windows freeimage library
+mingw64-freetype-static.noarch : Static version of the MinGW Windows Freetype library
+mingw64-freexl.noarch : MinGW Windows freexl library
+mingw64-fribidi.noarch : MinGW Windows fribidi library
+mingw64-fribidi-static.noarch : Static version of the MinGW Windows fribidi library
+mingw64-ftplib.noarch : MinGW Library of FTP routines
+mingw64-g2clib.noarch : MinGW Windows g2clib library
+mingw64-gcc.x86_64 : MinGW Windows cross-compiler (GCC) for C for the win64 target
+mingw64-gcc-c++.x86_64 : MinGW Windows cross-compiler for C++ for the win64 target
+mingw64-gcc-gfortran.x86_64 : MinGW Windows cross-compiler for FORTRAN for the win64 target
+mingw64-gcc-objc.x86_64 : MinGW Windows cross-compiler support for Objective C for the win64 target
+mingw64-gcc-objc++.x86_64 : MinGW Windows cross-compiler support for Objective C++ for the win64 target
+mingw64-gdal.noarch : MinGW Windows GDAL library
+mingw64-gdal-tools.noarch : MinGW Windows GDAL library tools
+mingw64-gdb.noarch : MinGW Windows port of the GDB debugger
+mingw64-gdbm.noarch : MinGW port of GNU database routines
+mingw64-gdbm-static.noarch : Static version of the MinGW Windows GDBM library
+mingw64-gdk-pixbuf.noarch : MinGW Windows GDK Pixbuf library
+mingw64-geos.noarch : MinGW Windows GEOS library
+mingw64-gettext-static.noarch : Static version of the MinGW Windows Gettext library
+mingw64-giflib.noarch : MinGW Windows giflib library
+mingw64-giflib-static.noarch : Static version of the MinGW Windows giflib library
+mingw64-giflib-tools.noarch : Tools for the MinGW Windows giflib library
+mingw64-glew.noarch : MinGW Windows GLEW library
+mingw64-glew-static.noarch : Static version of MinGW Windows GLEW library
+mingw64-glew-tools.noarch : Tools for the MinGW Windows GLEW library
+mingw64-glib-networking.noarch : MinGW Windows glib-networking library
+mingw64-glib2.noarch : MinGW Windows Glib2 library for the win64 target
+mingw64-glib2-static.noarch : Static version of the MinGW Windows GLib2 library
+mingw64-glibmm24.noarch : MinGW Windows C++ interface for GTK2 (a GUI library for X)
+mingw64-glslang.noarch : MinGW Windows glslang library
+mingw64-gnutls.noarch : MinGW GnuTLS TLS/SSL encryption library
+mingw64-goocanvas2.noarch : MinGW Windows canvas library for GTK+
+mingw64-graphite2.noarch : MinGW Windows graphite2 library
+mingw64-graphite2-static.noarch : Static version of the MinGW Windows graphite2 library
+mingw64-gsl.noarch : MinGW Windows port of the GNU Scientific Library for the win64 target
+mingw64-gsl-static.noarch : Static version of MinGW Windows port of the GNU Scientific Library
+mingw64-gstreamer.noarch : MinGW Windows Streaming-Media Framework Runtime
+mingw64-gstreamer1.noarch : MinGW Windows Streaming-Media Framework Runtime
+mingw64-gtk2.noarch : MinGW Windows Gtk2 library
+mingw64-gtk2-static.noarch : Static version of the MinGW Windows Gtk2 library
+mingw64-gtk3.noarch : MinGW Windows GTK+ library
+mingw64-gtkmm24.noarch : MinGW Windows C++ interface for GTK2 (a GUI library for X)
+mingw64-gtkmm30.noarch : MinGW Windows C++ interface for the GTK+ library
+mingw64-gtksourceview3.noarch : MinGW Windows library for viewing source files
+mingw64-gtksourceviewmm3.noarch : MinGW Windows GtkSourceViewmm library
+mingw64-gtkspell3.noarch : MinGW Windows GtkSpell3 library
+mingw64-gtkspell3-static.noarch : Static version of the MinGW Windows GtkSpell3 library
+mingw64-gtkspellmm30.noarch : MinGW Windows GtkSpellmm library
+mingw64-gtkspellmm30-static.noarch : Static version of the MinGW Windows GtkSpellmm library
+mingw64-gvnc.noarch : MinGW Windows port of VNC GObject
+mingw64-harfbuzz.noarch : MinGW Windows Harfbuzz library
+mingw64-harfbuzz-static.noarch : Static version of the MinGW Windows Harfbuzz library
+mingw64-headers.noarch : MinGW Windows cross-compiler Win64 header files
+mingw64-hicolor-icon-theme.noarch : MinGW hicolor icon theme for MingGW
+mingw64-hidapi-static.noarch : Static libraries for mingw64-hidapi development
+mingw64-hunspell.noarch : MinGW Windows spell checker and morphological analyzer library
+mingw64-hunspell-static.noarch : Static version of the MinGW Windows hunspell library
+mingw64-hunspell-tools.noarch : MinGW Windows hunspell library tools
+mingw64-icu.noarch : MinGW compilation of International Components for Unicode Tools
+mingw64-ilmbase.noarch : MinGW Windows ilmbase library
+mingw64-ilmbase-static.noarch : Static version of the MinGW Windows ilmbase library
+mingw64-jasper.noarch : MinGW Windows Jasper library
+mingw64-jasper-static.noarch : Static version of the MinGW Windows Jasper library
+mingw64-jimtcl.noarch : MinGW small embeddable Tcl interpreter
+mingw64-json-glib.noarch : MinGW compiled json-glib library for the Win64 target
+mingw64-jxrlib.noarch : MinGW Windows JPEG XR library
+mingw64-lcms.noarch : Static libraries for mingw32-lcms development
+mingw64-lcms-static.noarch : Static libraries for mingw64-lcms development
+mingw64-lcms2.noarch : Static libraries for mingw32-lcms2 development
+mingw64-lcms2-static.noarch : Static libraries for mingw64-lcms2 development
+mingw64-leptonica.noarch : MinGW Windows Leptonica library
+mingw64-leptonica-static.noarch : Static version of the MinGW Windows Leptonica library
+mingw64-libIDL.noarch : MinGW Windows IDL Parsing Library
+mingw64-libIDL-static.noarch : Static version of the MinGW Windows IDL Parsing Library
+mingw64-libarchive.noarch : MinGW package for handling streaming archive formats
+mingw64-libarchive-static.noarch : Static version of the MinGW libarchive library
+mingw64-libcharset.noarch : MinGW Windows libcharset library
+mingw64-libconfuse.noarch : MinGW configuration file parser library
+mingw64-libcroco.noarch : MinGW A CSS2 parsing library
+mingw64-libcroco-static.noarch : MinGW static A CSS2 parsing library
+mingw64-libepoxy.noarch : MinGW Windows libepoxy library
+mingw64-libffi.noarch : A portable foreign function interface library for MinGW
+mingw64-libffi-static.noarch : A portable foreign function interface static library for MinGW
+mingw64-libftdi.noarch : MinGW library to program and control the FTDI USB controller
+mingw64-libgcrypt.noarch : MinGW Windows gcrypt encryption library
+mingw64-libgcrypt-static.noarch : Static library for mingw64-libgcrypt development
+mingw64-libgeotiff.noarch : MinGW Windows libgeotiff library
+mingw64-libgeotiff-static.noarch : Static version of the MinGW Windows libgeotiff library
+mingw64-libgeotiff-tools.noarch : Tools for the MinGW Windows libgeotiff library
+mingw64-libglade2.noarch : MinGW Windows Libglade2 library
+mingw64-libglade2-static.noarch : Static MinGW Windows Libglade2 library
+mingw64-libgnurx.noarch : MinGW Regex library
+mingw64-libgnurx-static.noarch : Static version of the MinGW Windows regular expression library
+mingw64-libgovirt.noarch : MinGW support for a GObject library for interacting with oVirt REST API
+mingw64-libgovirt-static.noarch : MinGW support for a GObject library for interacting with oVirt REST API
+mingw64-libgpg-error.noarch : MinGW Windows libgpg-error compression library for the win64 target
+mingw64-libgpg-error-static.noarch : Static library for mingw64-libgpg-error development
+mingw64-libgsf.noarch : MinGW build of structured file editing library
+mingw64-libgsf-static.noarch : MinGW build of structured file editing library
+mingw64-libgta.noarch : MinGW Windows GTA library
+mingw64-libgusb.noarch : MinGW library which allows easy access to USB devices
+mingw64-libgusb-static.noarch : MinGW static library which allows easy access to USB devices
+mingw64-libidn.noarch : MinGW Windows zlib compression library for the win64 target
+mingw64-libidn-static.noarch : Static version of the MinGW Windows IDN library
+mingw64-libidn2.noarch : MinGW Windows IDN 2008 library the win64 target
+mingw64-libidn2-static.noarch : Static version of the MinGW Windows IDN 2008 library
+mingw64-libjpeg-turbo.noarch : MinGW Windows Libjpeg-turbo library
+mingw64-libjpeg-turbo-static.noarch : Static version of the MinGW Windows Libjpeg-turbo library
+mingw64-libkml.noarch : MinGW Windows libkml library
+mingw64-libmicrohttpd.noarch : MinGW package for libmicrohttpd
+mingw64-libmng.noarch : MinGW Windows libmng library
+mingw64-libmng-static.noarch : Static version of the MinGW Windows libmng library
+mingw64-libosinfo.noarch : MinGW Windows port of a library for managing OS information for virtualization
+mingw64-libpng.noarch : MinGW Windows Libpng library
+mingw64-libpng-static.noarch : Static version of MinGW Windows Libpng library
+mingw64-libpsl.noarch : MinGW port of C library for the Publix Suffix List
+mingw64-librsvg2.noarch : MinGW SVG library based on cairo
+mingw64-librsvg2-static.noarch : MinGW static color daemon
+mingw64-libsigc++20.noarch : MinGW Windows port of the typesafe signal framework for C++
+mingw64-libsoup.noarch : MinGW library for HTTP and XML-RPC functionality
+mingw64-libspatialite.noarch : MinGW Windows libspatialite library
+mingw64-libsq3.noarch : MinGW Windows C++ Wrapper for the SQLite3 embeddable SQL database engine
+mingw64-libsqlite3x.noarch : MinGW Windows C++ Wrapper for the SQLite3 embeddable SQL database engine
+mingw64-libssh2.noarch : MinGW Windows library implementation of the SSH2 protocol
+mingw64-libssh2-static.noarch : Static version of the MinGW Windows SSH2 library
+mingw64-libtasn1.noarch : MinGW Windows libtasn1 library
+mingw64-libtiff.noarch : MinGW Windows port of the LibTIFF library
+mingw64-libtiff-static.noarch : Static version of the MinGW Windows LibTIFF library
+mingw64-libunistring.noarch : MinGW port of GNU Unicode string library
+mingw64-libusbx.noarch : MinGW library which allows userspace access to USB devices
+mingw64-libusbx-static.noarch : MinGW static library which allows userspace access to USB devices
+mingw64-libvirt.noarch : MinGW Windows libvirt virtualization library
+mingw64-libvirt-gconfig.noarch : MingwGW Windows libvirt-gconfig virtualization library
+mingw64-libvirt-glib.noarch : MingwGW Windows libvirt-gconfig virtualization library
+mingw64-libvirt-gobject.noarch : MingwGW Windows libvirt-gobject virtualization library
+mingw64-libvirt-static.noarch : MinGW Windows libvirt virtualization library
+mingw64-libvorbis.noarch : MinGW Windows libvorbis library
+mingw64-libwebp.noarch : MinGW compilation of Library and tools for the WebP format
+mingw64-libxml++.noarch : MinGW Windows C++ wrapper for the libxml2 XML parser library
+mingw64-libxml2.noarch : MinGW Windows libxml2 XML processing library
+mingw64-libxml2-static.noarch : Static version of the MinGW Windows XML processing library
+mingw64-libxslt.noarch : MinGW Windows Library providing the Gnome XSLT engine
+mingw64-libxslt-static.noarch : Static version of the MinGW Windows LibXSLT library
+mingw64-llvm.x86_64 : LLVM for MinGW Windows
+mingw64-llvm-static.noarch : LLVM for MinGW Windows - Static libraries
+mingw64-llvm-tools.noarch : LLVM for MinGW Windows - Runtime tools
+mingw64-log4c.noarch : MinGW compiled log4c library for the Win64 target
+mingw64-mpfr.noarch : MinGW C library for multiple-precision floating-point computations
+mingw64-nettle.noarch : MinGW package for nettle cryptographic library
+mingw64-openal-soft.noarch : MinGW compiled OpenAL Soft library for Win64 target
+mingw64-openjpeg2.noarch : MinGW Windows openjpeg2 library
+mingw64-openjpeg2-tools.noarch : Tools for the MinGW Windows openjpeg2 library
+mingw64-openssl.noarch : MinGW port of the OpenSSL toolkit
+mingw64-openssl-static.noarch : Static version of the MinGW port of the OpenSSL toolkit
+mingw64-osinfo-db-tools.noarch : MinGW Windows port of a library for managing OS information for virtualization
+mingw64-p11-kit.noarch : MinGW Library for loading and sharing PKCS#11 modules
+mingw64-pango.noarch : MinGW Windows Pango library
+mingw64-pango-static.noarch : Static version of the MinGW Windows Pango library
+mingw64-pangomm.noarch : MinGW Windows C++ interface for Pango
+mingw64-pcre.noarch : MinGW Windows pcre library
+mingw64-pcre-static.noarch : Static version of the mingw64-pcre library
+mingw64-pcre2.noarch : MinGW Windows pcre2 library
+mingw64-pcre2-static.noarch : Static version of the MinGW Windows pcre2 library
+mingw64-pdcurses.noarch : Curses library for MinGW64
+mingw64-physfs.noarch : MinGW compiled physfs library for the Win64 target
+mingw64-physfs-static.noarch : Static version of the MinGW Win64 compiled physfs library
+mingw64-pixman.noarch : MinGW Windows Pixman library
+mingw64-plotmm.noarch : MinGW GTKmm plot widget for scientific applications for the win64 target
+mingw64-plotmm-static.noarch : Static version of the MinGW Windows PlotMM library
+mingw64-podofo.noarch : MinGW Windows podofo library
+mingw64-podofo-tools.noarch : Tools for the MinGW Windows podofo library
+mingw64-polyclipping.noarch : MinGW Windows Polygon clipping library for the win64 target
+mingw64-poppler.noarch : MinGW Windows Poppler library
+mingw64-poppler-cpp.noarch : MinGW Windows C++ Poppler library
+mingw64-poppler-glib.noarch : MinGW Windows Poppler-Glib library
+mingw64-poppler-qt5.noarch : MinGW Windows Poppler-Qt5 library
+mingw64-portablexdr.noarch : MinGW Windows PortableXDR / RPC Library
+mingw64-portablexdr-static.noarch : MinGW Windows PortableXDR XDR / RPC library, static version
+mingw64-portaudio.noarch : MinGW compiled portaudio for the Win64 target
+mingw64-postgresql.noarch : MinGW Windows PostgreSQL library
+mingw64-postgresql-static.noarch : Static libraries for MinGW PostgreSQL
+mingw64-proj-static.noarch : Static libraries for mingw64-proj
+mingw64-python3.noarch : MinGW Windows python3 library
+mingw64-python3-Cython.noarch : MinGW Windows Python3 Cython library
+mingw64-python3-GeographicLib.noarch : MinGW Windows GeographicLib python 3 bindings
+mingw64-python3-gdal.noarch : MinGW Windows Python3 GDAL bindings
+mingw64-python3-libkml.noarch : MinGW Windows Python 3 libkml library
+mingw64-python3-numpy.noarch : MinGW Windows Python3 numpy library
+mingw64-python3-pyqt5-sip.x86_64 : MinGW Windows SIP module for PyQt5 - Python 3
+mingw64-python3-qscintilla-qt5.noarch : MinGW Windows qscintilla-qt5 Python 3 bindings
+mingw64-python3-qt5.x86_64 : MinGW Windows Python3-Qt5
+mingw64-python3-setuptools.noarch : MinGW Windows Python3 setuptools library
+mingw64-python3-sip.x86_64 : MinGW Windows SIP
+mingw64-qca-qt5.noarch : MinGW Windows Qt Cryptographic Architecture
+mingw64-qextserialport-qt5.noarch : MinGW Windows qextserialport Qt5 library
+mingw64-qscintilla-qt5.noarch : MinGW Windows qscintilla-qt5 library
+mingw64-qt5-qtbase-static.noarch : Static version of the mingw64-qt5-qtbase library
+mingw64-qt5-qtdeclarative-static.noarch : Static version of the mingw64-qt5-qtdeclarative library
+mingw64-qt5-qtquickcontrols-static.noarch : Static version of the mingw64-qt5-qtquickcontrols library
+mingw64-qtkeychain-qt5.noarch : MinGW Windows qtkeychain library
+mingw64-qtspell-qt5.noarch : MinGW Windows qtspell-Qt5 library
+mingw64-qtspell-qt5-static.noarch : Static version of the MinGW Windows qtspell-Qt5 library
+mingw64-quazip-qt5.noarch : MinGW Windows Qt5 quazip library
+mingw64-quazip-qt5-static.noarch : Static version of the MinGW Windows Qt5 quazip library
+mingw64-qwt-qt5.noarch : MinGW Windows Qwt library
+mingw64-qwtpolar-qt5.noarch : MinGW Windows qwtpolar library
+mingw64-readline.noarch : MinGW port of readline for editing typed command lines
+mingw64-shapelib.noarch : MinGW Windows shapelib library
+mingw64-shapelib-static.noarch : Static version of the  MinGW Windows shapelib library
+mingw64-shapelib-tools.noarch : Tools for the  MinGW Windows shapelib library
+mingw64-spatialindex.noarch : MinGW Windows spatialindex library
+mingw64-speex-tools.noarch : The tools package for mingw64-speex
+mingw64-spirv-headers.noarch : MinGW Windows spirv-headers
+mingw64-spirv-tools.noarch : MinGW Windows spirv-tools
+mingw64-sqlite.noarch : MinGW Windows port of sqlite embeddable SQL database engine
+mingw64-sqlite-static.noarch : Static version of MinGW Windows port of sqlite library
+mingw64-svg2svgt.noarch : MinGW Windows svg2svgt library
+mingw64-sword.noarch : MinGW build of a cross-platform scripture text library
+mingw64-taglib.noarch : MinGW Windows version of TagLib for the win64 target
+mingw64-tcl.noarch : MinGW Windows Tool Command Language, pronounced tickle
+mingw64-termcap.noarch : MinGW terminal feature database
+mingw64-tesseract.noarch : MinGW Windows tesseract-ocr library
+mingw64-tesseract-static.noarch : Static version of the MinGW Windows tesseract-ocr library
+mingw64-tesseract-tools.noarch : MinGW Windows tesseract-ocr library tools
+mingw64-tk.noarch : MinGW Windows graphical toolkit for the Tcl scripting language
+mingw64-twaindsm.noarch : MinGW Windows twaindsm library
+mingw64-uriparser.noarch : MinGW Windows uriparser library
+mingw64-usbredir.noarch : MinGW USB network redirection protocol libraries
+mingw64-usbredir-static.noarch : MinGW USB network redirection protocol static libraries
+mingw64-vulkan-headers.noarch : MinGW Windows vulkan-headers
+mingw64-vulkan-loader.noarch : MinGW Windows vulkan-loader library
+mingw64-vulkan-tools.noarch : MinGW Windows vulkan-tools
+mingw64-vulkan-validation-layers.noarch : MinGW Windows vulkan-validation-layers library
+mingw64-win-iconv.noarch : MinGW Windows Iconv library
+mingw64-win-iconv-static.noarch : Static version of the MinGW Windows Iconv library
+mingw64-windows-default-manifest.noarch : MinGW Default Windows application manifest
+mingw64-winpthreads.noarch : MinGW pthread library for the win64 target
+mingw64-winpthreads-static.noarch : Static version of the MinGW Windows pthreads library
+mingw64-winstorecompat.noarch : MinGW library to help porting to Windows Store for the win64 target
+mingw64-wpcap.noarch : MinGW user-level packet capture
+mingw64-wxWidgets.noarch : MinGW port of the wxWidgets GUI library
+mingw64-wxWidgets-static.noarch : Static libraries for mingw64-wxWidgets development
+mingw64-wxWidgets3.noarch : MinGW port of the wxWidgets GUI library
+mingw64-wxWidgets3-static.noarch : Static libraries for mingw64-wxWidgets3 development
+mingw64-zfstream.noarch : MinGW Windows abstraction API for reading and writing compressed files
+mingw64-zlib.noarch : MinGW Windows zlib compression library for the win64 target
+mingw64-zlib-static.noarch : Static libraries for mingw64-zlib development
+============================= Name Matched: mingw ==============================
+mingw-binutils-generic.x86_64 : Utilities which are needed for both the Win32 and Win64 toolchains
+mingw32-angleproject.noarch : Almost Native Graphics Layer Engine for Win32
+mingw32-binutils.x86_64 : Cross-compiled version of binutils for the Win32 environment
+mingw32-bzip2.noarch : 32 Bit version of bzip2 for Windows
+mingw32-c-ares.noarch : Library that performs asynchronous DNS operations
+mingw32-cairomm-static.noarch : Static cross compiled version of the cairomm library
+mingw32-celt051.noarch : An audio codec for use in low-delay speech and audio communication
+mingw32-celt051-static.noarch : Static version of the CELT ultra-low delay audio codec library
+mingw32-crossreport.noarch : Analysis tool to help cross-compilation to Windows
+mingw32-cxxtest.noarch : A JUnit-like testing framework for C++
+mingw32-dirac.noarch : Dirac is an open source video codec
+mingw32-dlfcn.noarch : Implements a wrapper for dlfcn (dlopen dlclose dlsym dlerror)
+mingw32-flac.noarch : Encoder/decoder for the Free Lossless Audio Codec
+mingw32-flac-tools.noarch : Tools for Free Lossless Audio Codec
+mingw32-fltk.noarch : C++ user interface toolkit
+mingw32-fontconfig-static.noarch : Static version of the cross compiled Fontconfig library
+mingw32-freetype.noarch : Free and portable font rendering engine
+mingw32-gettext.noarch : GNU libraries and utilities for producing multi-lingual messages
+mingw32-glibmm24-static.noarch : Static cross compiled version of the glibmm library
+mingw32-gmp.noarch : Cross-compiled GNU arbitrary precision library
+mingw32-gsm.noarch : Shared libraries for GSM speech compressor
+mingw32-gsm-tools.noarch : GSM speech compressor tools
+mingw32-gstreamer-plugins-bad-free.noarch : Cross compiled GStreamer plug-ins "bad"
+mingw32-gstreamer-plugins-base.noarch : Cross compiled GStreamer media framework base plug-ins
+mingw32-gstreamer-plugins-good.noarch : Cross compiled GStreamer plug-ins good
+mingw32-gstreamer1-plugins-bad-free.noarch : Cross compiled GStreamer1 plug-ins "bad"
+mingw32-gstreamer1-plugins-base.noarch : Cross compiled GStreamer media framework base plug-ins
+mingw32-gstreamer1-plugins-good.noarch : Cross compiled GStreamer1 plug-ins good
+mingw32-gtk-update-icon-cache.noarch : Icon theme caching utility
+mingw32-gtk-vnc2.noarch : A GTK3 widget for VNC clients
+mingw32-gtkglext.noarch : OpenGL Extension to GTK+ for the Win32 target
+mingw32-gtkglext-static.noarch : Static version of gtkglext, OpenGL Extension to GTK+ for the Win32 target
+mingw32-gvnc-tools.noarch : Command line VNC tools
+mingw32-hamlib.noarch : Run-time library to control radio transceivers and receivers for Win32
+mingw32-hidapi.noarch : Library for communicating with USB and Bluetooth HID devices
+mingw32-id3lib.noarch : Library for manipulating ID3v1 and ID3v2 tags
+mingw32-id3lib-tools.noarch : Tools for manipulating ID3v1 and ID3v2 tags
+mingw32-jansson.noarch : C library for encoding, decoding and manipulating JSON data
+mingw32-jsoncpp.noarch : JSON library implemented in C++ for Win32 target
+mingw32-libgomp.x86_64 : GCC OpenMP v3.0 shared support library for the win32 target
+mingw32-libid3tag.noarch : ID3 tag manipulation library
+mingw32-libltdl.noarch : Runtime libraries for GNU Libtool Dynamic Module Loader
+mingw32-libmicrohttpd-static.noarch : Static version of the libmicrohttpd library
+mingw32-libogg.noarch : The Ogg bitstream file format library
+mingw32-liboil.noarch : Library of Optimized Inner Loops, CPU optimized functions
+mingw32-libsigc++20-static.noarch : Static cross compiled version of the libsigc++ library
+mingw32-libtheora.noarch : Theora Video Compression Codec
+mingw32-libzip.noarch : C library for reading, creating, and modifying zip archives
+mingw32-mediawriter.noarch : Fedora Media Writer
+mingw32-minizip.noarch : Minizip manipulates files from a .zip archive
+mingw32-nsis.x86_64 : Nullsoft Scriptable Install System
+mingw32-nsiswrapper.noarch : Helper program for making NSIS Windows installers
+mingw32-opus.noarch : Audio codec for use in low-delay speech and audio communication
+mingw32-opusfile.noarch : A high-level API for decoding and seeking within .opus files
+mingw32-orc.noarch : Cross compiled Oil Run-time Compiler
+mingw32-orc-compiler.noarch : Orc compiler
+mingw32-pkg-config.x86_64 : A tool for determining compilation options for the win32 target
+mingw32-portaudio.noarch : Free, cross platform, open-source, audio I/O library
+mingw32-proj.noarch : Cartographic projection software (PROJ.4)
+mingw32-qt5-qmake.x86_64 : Qt5 for Windows build environment
+mingw32-qt5-qmldevtools.x86_64 : Qt5 for Windows build environment
+mingw32-qt5-qmldevtools-devel.i686 : Qt5 for Windows build environment
+mingw32-qt5-qmldevtools-devel.x86_64 : Qt5 for Windows build environment
+mingw32-qt5-qt3d.noarch : Qt5 for Windows - Qt3d component
+mingw32-qt5-qt3d-tools.x86_64 : Qt5 for Windows - Native tools for the Qt3d component
+mingw32-qt5-qtactiveqt.noarch : Qt5 for Windows - QtActiveQt component
+mingw32-qt5-qtbase.noarch : Qt5 for Windows - QtBase component
+mingw32-qt5-qtbase-devel.i686 : Qt5 for Windows build environment
+mingw32-qt5-qtbase-devel.x86_64 : Qt5 for Windows build environment
+mingw32-qt5-qtcharts.noarch : Qt5 for Windows - QtCharts component
+mingw32-qt5-qtdeclarative.noarch : Qt5 for Windows - QtDeclarative component
+mingw32-qt5-qtgraphicaleffects.noarch : Qt5 for Windows - QtGraphicalEffects component
+mingw32-qt5-qtimageformats.noarch : Qt5 for Windows - QtImageFormats component
+mingw32-qt5-qtlocation.noarch : Qt5 for Windows - QtLocation component
+mingw32-qt5-qtmultimedia.noarch : Qt5 for Windows - QtMultimedia component
+mingw32-qt5-qtquickcontrols.noarch : Qt5 for Windows - QtQuickControls component
+mingw32-qt5-qtscript.noarch : Qt5 for Windows - QtScript component
+mingw32-qt5-qtsensors.noarch : Qt5 for Windows - QtSensors component
+mingw32-qt5-qtserialport.noarch : Qt5 for Windows - Qt Serial Port component
+mingw32-qt5-qtsvg.noarch : Qt5 for Windows - QtSvg component
+mingw32-qt5-qttools.noarch : Qt5 for Windows - QtTools component
+mingw32-qt5-qttools-tools.x86_64 : Qt5 for Windows - QtTools component
+mingw32-qt5-qttranslations.noarch : Qt5 for Windows - QtTranslations component
+mingw32-qt5-qtwebchannel.noarch : Qt5 for Windows - QtWebchannel component
+mingw32-qt5-qtwebkit.noarch : Qt5 for Windows - QtWebkit component
+mingw32-qt5-qtwebsockets.noarch : Qt5 for Windows - QtWebsockets component
+mingw32-qt5-qtwinextras.noarch : Qt5 for Windows - QtWinExtras component
+mingw32-qt5-qtxmlpatterns.noarch : Qt5 for Windows - QtXmlPatterns component
+mingw32-readline-static.noarch : Static version of the cross compiled readline library
+mingw32-rest.noarch : A library for access to RESTful web services
+mingw32-rest-static.noarch : A library for access to RESTful web services
+mingw32-sane-backends-static.noarch : Static version of the Scanner Access Now Easy (SANE) universal scanner interface.
+mingw32-speex.noarch : Voice compression format (codec)
+mingw32-speexdsp.noarch : A voice compression format (DSP)
+mingw32-spice-glib.noarch : GLib-based library to connect to SPICE servers
+mingw32-spice-gtk3.noarch : A GTK+ widget for SPICE clients
+mingw32-spice-protocol.noarch : Spice protocol header files
+mingw32-srvany.noarch : Utility for creating services for Windows
+mingw32-termcap-static.noarch : Static version of the cross compiled termcap library
+mingw32-theora-tools.noarch : Command line tools for Theora videos
+mingw32-wavpack.noarch : Completely open audiocodec
+mingw32-wavpack-tools.noarch : Completely open audiocodec tools
+mingw32-wine-gecko.noarch : Gecko library for 32bit wine
+mingw32-xerces-c.noarch : MingGW x86 Windows validating XML parser
+mingw32-xz.noarch : Cross-compiled LZMA compression utilities
+mingw32-xz-libs.noarch : Libraries for decoding LZMA compression
+mingw32-xz-libs-static.noarch : Static version of the xz library
+mingw32-yaml-cpp.noarch : A YAML parser and emitter for C++
+mingw64-angleproject.noarch : Almost Native Graphics Layer Engine for Win64
+mingw64-binutils.x86_64 : Cross-compiled version of binutils for the Win64 environment
+mingw64-bzip2.noarch : 64 Bit version of bzip2 for Windows
+mingw64-c-ares.noarch : Library that performs asynchronous DNS operations
+mingw64-cairomm-static.noarch : Static cross compiled version of the cairomm library
+mingw64-celt051.noarch : An audio codec for use in low-delay speech and audio communication
+mingw64-celt051-static.noarch : Static version of the CELT ultra-low delay audio codec library
+mingw64-dlfcn.noarch : Implements a wrapper for dlfcn (dlopen dlclose dlsym dlerror)
+mingw64-flac.noarch : Tools for Free Lossless Audio Codec
+mingw64-flac-tools.noarch : Tools for Free Lossless Audio Codec
+mingw64-fontconfig-static.noarch : Static version of the cross compiled Fontconfig library
+mingw64-freetype.noarch : Free and portable font rendering engine
+mingw64-gettext.noarch : GNU libraries and utilities for producing multi-lingual messages
+mingw64-glibmm24-static.noarch : Static cross compiled version of the glibmm library
+mingw64-gmp.noarch : Cross-compiled GNU arbitrary precision library
+mingw64-gsm.noarch : GSM speech compressor tools
+mingw64-gsm-tools.noarch : Tools for Free Lossless Audio Codec
+mingw64-gstreamer-plugins-bad-free.noarch : Cross compiled GStreamer plug-ins "bad"
+mingw64-gstreamer-plugins-base.noarch : Cross compiled GStreamer media framework base plug-ins
+mingw64-gstreamer-plugins-good.noarch : Cross compiled GStreamer plug-ins good
+mingw64-gstreamer1-plugins-bad-free.noarch : Cross compiled GStreamer1 plug-ins "bad"
+mingw64-gstreamer1-plugins-base.noarch : Cross compiled GStreamer media framework base plug-ins
+mingw64-gstreamer1-plugins-good.noarch : Cross compiled GStreamer1 plug-ins good
+mingw64-gtk-update-icon-cache.noarch : Icon theme caching utility
+mingw64-gtk-vnc2.noarch : A GTK3 widget for VNC clients
+mingw64-gtkglext.noarch : OpenGL Extension to GTK+ for the Win64 target
+mingw64-gtkglext-static.noarch : Static version of gtkglext, OpenGL Extension to GTK+ for the Win64 target
+mingw64-gvnc-tools.noarch : Command line VNC tools
+mingw64-hamlib.noarch : Run-time library to control radio transceivers and receivers for Win64
+mingw64-hidapi.noarch : Library for communicating with USB and Bluetooth HID devices
+mingw64-id3lib.noarch : Library for manipulating ID3v1 and ID3v2 tags
+mingw64-id3lib-tools.noarch : Tools for manipulating ID3v1 and ID3v2 tags
+mingw64-jansson.noarch : C library for encoding, decoding and manipulating JSON data
+mingw64-jsoncpp.noarch : JSON library implemented in C++ for Win64 target
+mingw64-libgomp.x86_64 : GCC OpenMP v3.0 shared support library for the win64 target
+mingw64-libid3tag.noarch : ID3 tag manipulation library
+mingw64-libltdl.noarch : Runtime libraries for GNU Libtool Dynamic Module Loader
+mingw64-libmicrohttpd-static.noarch : Static version of the libmicrohttpd library
+mingw64-libogg.noarch : The Ogg bitstream file format library
+mingw64-libsigc++20-static.noarch : Static cross compiled version of the libsigc++ library
+mingw64-libtheora.noarch : Command line tools for Theora videos
+mingw64-libzip.noarch : C library for reading, creating, and modifying zip archives
+mingw64-mediawriter.noarch : Fedora Media Writer
+mingw64-minizip.noarch : Minizip manipulates files from a .zip archive
+mingw64-opus.noarch : Audio codec for use in low-delay speech and audio communication
+mingw64-opusfile.noarch : A high-level API for decoding and seeking within .opus files
+mingw64-orc.noarch : Orc compiler
+mingw64-orc-compiler.noarch : Orc compiler
+mingw64-pixman-static.noarch : Static version of the cross compiled Pixman library
+mingw64-pkg-config.x86_64 : A tool for determining compilation options for the win64 target
+mingw64-proj.noarch : Cartographic projection software (PROJ.4)
+mingw64-qt5-qmake.x86_64 : Qt for Windows build environment
+mingw64-qt5-qmldevtools.x86_64 : Qt5 for Windows build environment
+mingw64-qt5-qmldevtools-devel.i686 : Qt5 for Windows build environment
+mingw64-qt5-qmldevtools-devel.x86_64 : Qt5 for Windows build environment
+mingw64-qt5-qt3d.noarch : Qt5 for Windows - Qt3d component
+mingw64-qt5-qt3d-tools.x86_64 : Qt5 for Windows - Native tools for the Qt3d component
+mingw64-qt5-qtactiveqt.noarch : Qt5 for Windows - QtActiveQt component
+mingw64-qt5-qtbase.noarch : Qt5 for Windows - QtBase component
+mingw64-qt5-qtbase-devel.i686 : Qt5 for Windows build environment
+mingw64-qt5-qtbase-devel.x86_64 : Qt5 for Windows build environment
+mingw64-qt5-qtcharts.noarch : Qt5 for Windows - QtCharts component
+mingw64-qt5-qtdeclarative.noarch : Qt for Windows - QtDeclarative component
+mingw64-qt5-qtgraphicaleffects.noarch : Qt5 for Windows - QtGraphicalEffects component
+mingw64-qt5-qtimageformats.noarch : Qt5 for Windows - QtImageFormats component
+mingw64-qt5-qtlocation.noarch : Qt5 for Windows - QtLocation component
+mingw64-qt5-qtmultimedia.noarch : Qt5 for Windows - QtMultimedia component
+mingw64-qt5-qtquickcontrols.noarch : Qt5 for Windows - QtQuickControls component
+mingw64-qt5-qtscript.noarch : Qt5 for Windows - QtScript component
+mingw64-qt5-qtsensors.noarch : Qt5 for Windows - QtSensors component
+mingw64-qt5-qtserialport.noarch : Qt5 for Windows - Qt Serial Port component
+mingw64-qt5-qtsvg.noarch : Qt5 for Windows - QtSvg component
+mingw64-qt5-qttools.noarch : Qt5 for Windows - QtTools component
+mingw64-qt5-qttools-tools.x86_64 : Qt5 for Windows - QtTools component
+mingw64-qt5-qttranslations.noarch : Qt5 for Windows - QtTranslations component
+mingw64-qt5-qtwebchannel.noarch : Qt5 for Windows - QtWebchannel component
+mingw64-qt5-qtwebkit.noarch : Qt5 for Windows - QtWebkit component
+mingw64-qt5-qtwebsockets.noarch : Qt5 for Windows - QtWebsockets component
+mingw64-qt5-qtwinextras.noarch : Qt5 for Windows - QtWinExtras component
+mingw64-qt5-qtxmlpatterns.noarch : Qt5 for Windows - QtXmlPatterns component
+mingw64-readline-static.noarch : Static version of the cross compiled readline library
+mingw64-rest.noarch : A library for access to RESTful web services
+mingw64-rest-static.noarch : A library for access to RESTful web services
+mingw64-sane-backends.noarch : Static version of the Scanner Access Now Easy (SANE) universal scanner interface.
+mingw64-sane-backends-static.noarch : Static version of the Scanner Access Now Easy (SANE) universal scanner interface.
+mingw64-speex.noarch : Voice compression format (codec)
+mingw64-speexdsp.noarch : A voice compression format (DSP)
+mingw64-spice-glib.noarch : GLib-based library to connect to SPICE servers
+mingw64-spice-gtk3.noarch : GLib-based library to connect to SPICE servers
+mingw64-spice-protocol.noarch : Spice protocol header files
+mingw64-termcap-static.noarch : Static version of the cross compiled termcap library
+mingw64-theora-tools.noarch : Command line tools for Theora videos
+mingw64-wavpack.noarch : Completely open audiocodec tools
+mingw64-wavpack-tools.noarch : Completely open audiocodec tools tools
+mingw64-wine-gecko.noarch : Gecko library for 64bit wine
+mingw64-xerces-c.noarch : MingGW x64 Windows validating XML parser
+mingw64-xz.noarch : Cross-compiled LZMA compression utilities
+mingw64-xz-libs.noarch : Libraries for decoding LZMA compression
+mingw64-xz-libs-static.noarch : Static version of the xz library
+mingw64-yaml-cpp.noarch : A YAML parser and emitter for C++
