@@ -1,0 +1,17 @@
+name: CI
+on:
+  push:
+    - master
+
+jobs:
+  build-images:
+    name: Build docker images
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Build
+        shell: bash
+        env:
+          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+        run: ./build-docker-images.sh
