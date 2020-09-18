@@ -4,6 +4,8 @@ RUN sudo dnf -y upgrade && \
     sudo dnf -y install \
         git \
         make \
+        cmake \
+        mingw32-nsis \
         mingw64-pkg-config \
         mingw64-gcc \
         mingw64-gcc-c++ \
